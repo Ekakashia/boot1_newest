@@ -1,0 +1,133 @@
+*{
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: "pop";
+    src: url(./Poppins-Regular.ttf);
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.h1{
+    color: hsla(0, 0%, 0%, 1);
+    font-weight: 600;
+    font-style: "pop";
+    font-size: 36px ! important;
+    line-height: 54px;
+    padding-left: 20px;
+    padding-top: 100px;
+}
+.h2{
+    color: hsla(0, 0%, 0%, 1);
+    font-weight: 500;
+    font-style: "pop";
+    line-height: 36px;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: 24px  ! important;
+}
+.h3{
+    color: hsla(0, 0%, 31%, 1);
+    font-weight: 500;
+    font-style: "pop";
+    font-size: 24px  ! important;
+    line-height: 30px;
+    margin-left: 20px;
+    border: none;
+    border-bottom: 1px solid hsla(0, 0%, 31%, 1);
+    width: 400px;
+    height: 100px;
+    padding-top: 30px;
+
+}
+.b1{
+    color: hsla(0, 0%, 100%, 1);
+    font-weight: 600;
+    font-style: "pop";
+    font-size: 20px ! important;
+    line-height: 30px;
+    margin-left: 20px;
+    background-color: hsla(0, 0%, 5%, 1);
+    border-bottom: 1px solid hsla(0, 0%, 5%, 1);
+    width: 400px;
+    height: 56px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.b2{
+    color: hsla(0, 0%, 0%, 1);
+    font-weight: 600;
+    font-style: "pop";
+    font-size: 20px ! important;
+    line-height: 30px;
+    margin-left: 20px;
+    background-color: hsla(0, 0%, 100%, 1);
+    border-bottom: 2px solid hsla(0, 0%, 5%, 1);
+    width: 400px;
+    height: 56px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.p1{
+    color: hsla(0, 0%, 31%, 1);
+    font-weight: 500;
+    font-style: "pop";
+    font-size: 20px ! important;
+    line-height: 30px;
+    padding-left: 30px;
+    padding-top: 50px;
+}
+.a1{
+    color: hsla(0, 0%, 5%, 1);
+    font-weight: 500;
+    font-style: "pop";
+    font-size: 20px ! important;
+    line-height: 30px;
+}
+.i1{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.i2{
+    margin-top: 20px;
+}
+.p2{
+    color: hsla(0, 0%, 89%, 1);
+    font-weight: 600;
+    font-style: "pop";
+    font-size: 36px ! important;
+    line-height: 54px;
+    padding-top: 80px;
+    padding-left: 30px;
+    margin: 0;
+}
+.p3{
+    color: hsla(0, 0%, 4%, 1);
+    font-weight: 600;
+    font-style: "pop";
+    font-size: 36px ! important;
+    line-height: 54px;
+    padding-left: 30px;
+    margin: 0;
+}
+.p4{
+    color: hsla(0, 0%, 0%, 1);
+    font-weight: 500;
+    font-style: "pop";
+    font-size: 24px ! important;
+    line-height: 36px;
+    padding-left: 30px;
+    padding-top: 100px;
+}
+.i3{
+    margin-top: 200px;
+}
+.i4{
+    margin-top: 180px;
+    margin-left: 180px;
+}
+.i5{
+    margin-top: 180px;
+    margin-left: 50px;
+}
